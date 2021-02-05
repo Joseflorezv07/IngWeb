@@ -1,6 +1,6 @@
 
 # Ingenieria Web
-1.Integrantes del Grupo
+## Integrantes del Grupo
 - Jose Florez
 - Juan Vega
 - Emerson Guerrero
