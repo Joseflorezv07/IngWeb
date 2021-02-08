@@ -2,9 +2,10 @@
 # Ingenieria Web
 
 Presentado por:
-- Jose Florez
-## Tareas
+- Jose Nicolas Florez Vargas
 
-1. [Guia 1](https://github.com/Joseflorezv07/IngWeb.git).
+1. Trabajos
+   - [Guias](https://github.com/Joseflorezv07/IngWeb.git).
+     
 
 
