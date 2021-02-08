@@ -1,10 +1,8 @@
 
 # Ingenieria Web
-## Integrantes del Grupo
+## Presentado por:
 - Jose Florez
-- Juan Vega
-- Emerson Guerrero
 ## Tareas
-1.Guia 1 
+1. [Guia 1](https://github.com/Joseflorezv07/IngWeb.git).
 
-- Link del repositorio [Repositorio](https://github.com/Joseflorezv07/IngWeb.git).
+
