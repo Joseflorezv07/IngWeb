@@ -9,7 +9,7 @@
             -ms-grid-row: 1;
             -ms-grid-column: 1;
             -ms-grid-column-span: 5;
-            background-color: #EEB215;
+            background-color: yellow;
     }
     #block1 {
             -ms-grid-row: 2;
@@ -19,7 +19,7 @@
     #block2 {
             -ms-grid-row: 2;
             -ms-grid-column: 3;
-            background-color: #726E6E;
+            background-color: white;
             }
     #block3 {
             -ms-grid-row: 2;
